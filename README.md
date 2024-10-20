@@ -31,9 +31,9 @@ The **Real-Time Weather Monitoring System** is a Flask-based web application tha
    git clone https://github.com/KumarSainadh28/Weather-Monitoring.git
    cd Weather-Monitoring
 ## Create a virtual environment
-    ```bash
+ ```bash
       python -m venv venv
-
+```
 ## Activate the Virtual Environment
 Windows:
    ```bash
