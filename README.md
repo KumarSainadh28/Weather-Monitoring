@@ -7,8 +7,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 The **Real-Time Weather Monitoring System** is a Flask-based web application that fetches and displays current weather data for multiple Indian cities. The application utilizes the OpenWeatherMap API to provide real-time weather updates, including temperature, feels-like temperature, weather conditions, and timestamps.
