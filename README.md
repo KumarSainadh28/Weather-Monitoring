@@ -19,7 +19,7 @@ The **Real-Time Weather Monitoring System** is a Flask-based web application tha
 
 ## Technologies Used
 - **Backend**: Flask (Python)
-- **Frontend**: HTML, CSS
+- **Frontend**: HTML, CSS, JavaScript
 - **API**: OpenWeatherMap API
 - **Data Handling**: Pandas
 
