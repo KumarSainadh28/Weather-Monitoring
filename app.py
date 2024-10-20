@@ -6,7 +6,7 @@ import time
 
 app = Flask(__name__)
 
-API_KEY = 'YOUR API KEY'
+API_KEY = '81180419d49c1dd8f7a8dc6e3c15eace'
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 INTERVAL = 1 
 
