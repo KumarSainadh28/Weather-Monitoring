@@ -31,33 +31,35 @@ The **Real-Time Weather Monitoring System** is a Flask-based web application tha
    git clone https://github.com/KumarSainadh28/Weather-Monitoring.git
    cd Weather-Monitoring
 ## Create a virtual environment
-python -m venv venv
+    ```bash
+      python -m venv venv
 
 ## Activate the Virtual Environment
 Windows:
-venv\Scripts\activate
-macOS/Linux:
-source venv/bin/activate
-
+   ```bash
+   venv\Scripts\activate
+```
 ## Install the required packages
+```bash
 pip install -r requirements.txt
 
-
+```
 ## Usage
 1.Ensure your OpenWeatherMap API key is correctly set in the app.py file.
 2.Run the application
-
+```bash
 python app.py
-
+```
 3.Open your web browser and navigate to http://127.0.0.1:8000/ to view the weather data.
 
 ## Folder Structure
 
 WeatherMonitoringSystem/
+```bash
 ├── app.py                # Main application file
 ├── templates/            # HTML templates folder
 │   └── index.html       # Main HTML template
 ├── static/               # Static files folder (CSS)
 │   └── styles.css       # CSS styles
 └── requirements.txt      # List of required packages
-
+```
